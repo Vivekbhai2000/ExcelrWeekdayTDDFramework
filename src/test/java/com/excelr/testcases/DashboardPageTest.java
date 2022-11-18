@@ -6,7 +6,7 @@ public class DashboardPageTest {
 	
 	@Test
 	public void ValidatedashboardPageTitle() {
-		System.out.println("M1");
+		System.out.println("M1 changed");
 		
 	}
 	
